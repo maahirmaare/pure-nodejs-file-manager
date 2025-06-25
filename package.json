@@ -1,0 +1,34 @@
+{
+  "name": "somalia-digital-heritage-explorer",
+  "version": "1.0.0",
+  "description": "A modern web application showcasing Somalia's rich culture, history, and development progress. Built with pure Node.js.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "static": "static",
+    "views": "views"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "somalia",
+    "culture",
+    "heritage",
+    "nodejs",
+    "web-application",
+    "africa",
+    "history"
+  ],
+  "author": "Maahir Maare",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maahirmaare/somalia-digital-heritage-explorer.git"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
